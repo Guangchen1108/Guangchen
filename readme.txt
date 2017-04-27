@@ -5,4 +5,4 @@ set a change in readme.txt as new version
 this is version 3.
 verison 5
 
-add at master.
+Creating a new branch is quick and simple.
